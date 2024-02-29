@@ -12,7 +12,7 @@ Sebelum kita melakukan prakitkum, siapkan alat-alat yang dibutuhkan
   lalu pisahkan semua warna sesuai dengan jenis kabel yang kalian inginkan (cross/string)  
   ![image](https://github.com/Azzadlyh/Konfigurasi-Kabel-LAN/assets/126213404/f222fe48-523a-47ce-9b6e-a138f271efc9)
 
-- Rapikan kabel sampai sesuai dengan ketentuan kabel,
+- Rapikan kabel sampai sesuai dengan ketentuan kabel,  
   untuk cross ketentuannya sebagai berikut :  
   ![image](https://github.com/Azzadlyh/Konfigurasi-Kabel-LAN/assets/126213404/ffb4fee7-fca3-4a4b-ac0e-5bc8bbab64dc)  
 
