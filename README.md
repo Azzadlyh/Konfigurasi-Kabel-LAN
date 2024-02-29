@@ -14,10 +14,10 @@ Sebelum kita melakukan prakitkum, siapkan alat-alat yang dibutuhkan
 
 - Rapikan kabel sampai sesuai dengan ketentuan kabel,
   untuk cross ketentuannya sebagai berikut :  
-  ![image](https://github.com/Azzadlyh/Konfigurasi-Kabel-LAN/assets/126213404/ffb4fee7-fca3-4a4b-ac0e-5bc8bbab64dc)
+  ![image](https://github.com/Azzadlyh/Konfigurasi-Kabel-LAN/assets/126213404/ffb4fee7-fca3-4a4b-ac0e-5bc8bbab64dc)  
 
   dan untuk straight sebagai berikut :    
-  ![image](https://github.com/Azzadlyh/Konfigurasi-Kabel-LAN/assets/126213404/627b1442-8f93-4b89-b71b-8dbe2039499a)
+  ![image](https://github.com/Azzadlyh/Konfigurasi-Kabel-LAN/assets/126213404/627b1442-8f93-4b89-b71b-8dbe2039499a)  
 
 - Selanjutnya craping kabel menggunakan rj45   
   ![image](https://github.com/Azzadlyh/Konfigurasi-Kabel-LAN/assets/126213404/f5570d40-edda-43b2-925e-29a0330876d1)  
